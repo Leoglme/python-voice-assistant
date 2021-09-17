@@ -1,0 +1,10 @@
+1631728006467	geckodriver	INFO	Listening on 127.0.0.1:50510
+1631728009514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\leogu\\AppData\\Local\\Temp\\rust_mozprofileAE2IpY"
+1631728010882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leogu\\AppData\\Local\\Temp\\rust_mozprofileAE2IpY\\search.json.mozlz4", (void 0)))
+1631728015934	Marionette	INFO	Listening on port 50518
+1631728016008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631728017642	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631728052129	Marionette	INFO	Stopped listening on port 50518
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
